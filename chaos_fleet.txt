@@ -1,0 +1,16 @@
+chaos_raider.     0. functional. raider.     2500. 25.  ultra-light. 115. 3. coilgun. 2. 125. 2. ultra-light. chaos. 1. regular. r. Lost,Souls
+chaos_destroyer.  0. functional. destroyer.  2500. 55.  light.       115. 2. missile. 1. 175. 3. light.       chaos. 1. regular. d. Excessive
+chaos_cruiser.    0. functional. cruiser.    3500. 110. medium.      195. 2. laser.   2. 300. 5. heavy.       chaos. 1. regular. c. Foebane
+chaos_raider.     0. functional. raider.     2500. 25.  ultra-light. 115. 3. coilgun. 2. 125. 2. ultra-light. chaos. 1. regular. r. Unclean,Ravagers
+chaos_destroyer.  0. functional. destroyer.  2500. 55.  light.       115. 2. missile. 1. 175. 3. light.       chaos. 1. regular. d. Steel,Fang
+chaos_daemonship. 0. functional. daemonship. 3500. 225. heavy.       195. 3. daemon.  2. 300. 3. heavy.       chaos. 2. veteran. d. Nurgle's,Blessing
+chaos_hellfire.   0. functional. hellfire.   5000. 225. heavy.       255. 2. daemon.  4. 225. 4. medium.      chaos. 2. veteran. H. Vengeful,Spirit
+chaos_marines.    0. functional. marines.    3500. 110. medium.      255. 3. marines. 2. 425. 1. light.       chaos. 3. master.  M. Black,Legion,
+chaos_destroyer.  0. functional. destroyer.  2500. 55.  light.       115. 2. missile. 1. 175. 3. light.       chaos. 1. regular. d. Doombringer
+chaos_battleship. 0. functional. battleship. 8000. 225. heavy.       310. 1. missile. 5. 300. 5. heavy.       chaos. 2. veteran. B. Fortress,of,Agony
+chaos_destroyer.  0. functional. destroyer.  2500. 55.  light.       115. 2. missile. 1. 175. 3. light.       chaos. 1. regular. d. Fellclaws
+chaos_raider.     0. functional. raider.     2500. 25.  ultra-light. 115. 3. coilgun. 2. 125. 2. ultra-light. chaos. 1. regular. r. Damnators
+chaos_hellfire.   0. functional. hellfire.   5000. 225. heavy.       255. 2. daemon.  4. 225. 4. medium.      chaos. 2. veteran. H. Unforgiveable
+chaos_daemonship. 0. functional. daemonship. 3500. 225. heavy.       195. 3. daemon.  2. 300. 3. heavy.       chaos. 2. veteran. d. Scourge,of,Tzeentch
+chaos_raider.     0. functional. raider.     2500. 25.  ultra-light. 115. 3. coilgun. 2. 125. 2. ultra-light. chaos. 1. regular. r. Carrion,Squadron
+chaos_destroyer.  0. functional. destroyer.  2500. 55.  light.       115. 2. missile. 1. 175. 3. light.       chaos. 1. regular. d. Deathskull

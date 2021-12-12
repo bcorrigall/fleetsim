@@ -1,8 +1,5 @@
-imperial_destroyer.  destroyer.  1250. 55.  light.  115. 3. coilgun. 1. 175. 2. light.  imperial. 1. regular. Wrath,of,the,Sun
-imperial_destroyer.  destroyer.  1250. 55.  light.  115. 3. coilgun. 1. 175. 2. light.  imperial. 1. regular. Blade,of,Ruin
-imperial_destroyer.  destroyer.  1250. 55.  light.  115. 3. coilgun. 1. 175. 2. light.  imperial. 1. regular. Purest,Drake
-imperial_frigate.    frigate.    2500. 55.  light.  115. 3. missile. 1. 175. 2. light.  imperial. 1. regular. Surebolt
-imperial_frigate.    frigate.    2500. 55.  light.  115. 3. missile. 1. 175. 2. light.  imperial. 1. regular. Dawnwind
-imperial_cruiser.    cruiser.    3500. 110. medium. 195. 2. laser.   2. 300. 4. heavy.  imperial. 1. regular. Litany,of,Defiance
-imperial_cruiser.    cruiser.    3500. 110. medium. 195. 2. laser.   2. 300. 4. heavy.  imperial. 1. regular. Delictum,Probati
-imperial_battleship. battleship. 5000. 225. heavy.  275. 2. laser.   4. 225. 3. medium. imperial. 3. veteran. Emperor's,Fury
+imperial_destroyer.  0. functional. destroyer.  1250. 55.  light.  115. 3. coilgun. 1. 175. 3. light.  imperial. 1. regular. d. Wrath,of,the,Sun
+imperial_battleship. 0. functional. battleship. 5000. 225. heavy.  225. 1. laser.   4. 225. 6. medium. imperial. 2. veteran. B. Crusader,of,Fire
+imperial_frigate.    0. functional. frigate.    2500. 55.  light.  115. 3. missile. 1. 175. 4. light.  imperial. 1. regular. f. Dawnwind
+imperial_cruiser.    0. functional. cruiser.    3500. 110. medium. 195. 2. laser.   2. 300. 4. heavy.  imperial. 1. regular. c. Litany,of,Defiance
+imperial_cruiser.    0. functional. cruiser.    3500. 110. medium. 195. 2. laser.   2. 300. 4. heavy.  imperial. 1. regular. c. Delictum,Probati
